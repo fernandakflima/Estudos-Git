@@ -38,3 +38,7 @@ Repositório para documentar os estudos de Git.
 | git stash list | lista as modificações arquivadas |
 | git stash pop | traz as alterações de outra branch e exclui as alterações mais recentes da pilha |
 |git stash apply | para manter a alteração |
+
+## 🔍 Referência
+
+[Digital Inovation One](https://web.dio.me/course/versionamento-de-codigo-com-git-e-github/learning/f3cbaa66-efbd-4c25-842e-2069c188c066?back=/track/bootcamp-wex-desenvolvimento-net-e-qa&tab=undefined&moduleId=undefined)
